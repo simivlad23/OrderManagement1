@@ -1,0 +1,3 @@
+Id client: 2
+Id produs: 3
+Cantitate : 7
